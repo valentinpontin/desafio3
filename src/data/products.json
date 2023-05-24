@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"title": "Hamburguesa",
+		"price": 1000,
+		"thumbnail": "Hola",
+		"code": "AAA",
+		"stock": 4
+	},
+	{
+		"id": 3,
+		"title": "Choripan",
+		"price": 1000,
+		"thumbnail": "Hola",
+		"code": "AAC",
+		"stock": 6
+	},
+	{
+		"id": 4,
+		"title": "Franfurt",
+		"price": 1000,
+		"thumbnail": "Hola",
+		"code": "AVA",
+		"stock": 7
+	},
+	{
+		"id": 5,
+		"title": "Carlitos",
+		"price": 1000,
+		"thumbnail": "Hola",
+		"code": "ABA",
+		"stock": 0
+	},
+	{
+		"id": 6,
+		"title": "Pancho",
+		"price": 1000,
+		"thumbnail": "Hola",
+		"code": "AFA",
+		"stock": 0
+	}
+]
